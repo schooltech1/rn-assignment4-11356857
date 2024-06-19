@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text, StyleSheet, ScrollView } from 'react-native';
-
+import Header from './Header';
 
 const HomeScreen = ({route}) => {
     const { name, email } = route.params;
@@ -8,7 +8,7 @@ const HomeScreen = ({route}) => {
     return (
 
     <ScrollView contentContainerStyle={styles.container}>
-        
+       <Header name={name} email={email} /> 
     </ScrollView>
   );
 };
