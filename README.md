@@ -2,7 +2,7 @@
 
 React Native Job Listing App
 
-This project is a React Native application that displays job listings using various components like JobCard and features horizontal scrolling with FlatList. The app includes a login page, a job listing page, and individual components for better modularity and reusability.
+This project is a React Native application that displays job listings using various components like JobCard and features horizontal scrolling with Scrollview. The app includes a login page, a job listing page, and individual components for better modularity and reusability.
 Table of Contents
 
     Installation
@@ -95,7 +95,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
     Make your changes and commit them: git commit -m 'Add some feature'.
     Push to the branch: git push origin my-feature-branch.
     Submit a pull request.
-
+ 
 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
