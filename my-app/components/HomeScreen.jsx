@@ -1,6 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, ScrollView } from 'react-native';
 import Header from './Header';
+import SearchBar from './SearchBar';
 
 const HomeScreen = ({route}) => {
     const { name, email } = route.params;
@@ -9,6 +10,7 @@ const HomeScreen = ({route}) => {
 
     <ScrollView contentContainerStyle={styles.container}>
        <Header name={name} email={email} /> 
+       <SearchBar/>
     </ScrollView>
   );
 };
