@@ -95,7 +95,19 @@ Contributions are welcome! Please fork the repository and create a pull request 
     Make your changes and commit them: git commit -m 'Add some feature'.
     Push to the branch: git push origin my-feature-branch.
     Submit a pull request.
- 
+
+Screenshot
+![Screenshot (7)](https://github.com/schooltech1/rn-assignment4-11356857/assets/170237696/1b214f95-b5fb-4728-b7b6-a4bde88653e8)
+
+![Screenshot (9)](https://github.com/schooltech1/rn-assignment4-11356857/assets/170237696/a23135ab-cc16-41c5-b799-23becd541fec)
+
+![Screenshot (12)](https://github.com/schooltech1/rn-assignment4-11356857/assets/170237696/f0425495-1d07-4feb-98fa-bedbe7be380a)
+
+![Screenshot (11)](https://github.com/schooltech1/rn-assignment4-11356857/assets/170237696/4eb736b9-8955-4542-8b97-243ad2ac82f6)
+
+![Screenshot (13)](https://github.com/schooltech1/rn-assignment4-11356857/assets/170237696/9c901937-c693-4dfd-b695-cdbeadc9fe6e)
+
+
 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
